@@ -1,0 +1,12 @@
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# logs / misc
+*.log
+logs/
+
+# don’t commit database dumps with real data
+*.sql
