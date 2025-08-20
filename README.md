@@ -16,9 +16,9 @@ A minimal PHP project that renders a student trip registration form and saves su
 ## Project Structure
 
 Trip-form/
-├─ index.php         # form render + POST handler + DB insert..
-├─ style.css         # minimal styles..
-└─ bg.jpg            # background image (optional)..
+├─ index.php         # form render + POST handler + DB insert
+├─ style.css         # minimal styles
+└─ bg.jpg            # background image (optional)
 
 
 ## SQL 
